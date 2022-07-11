@@ -8,7 +8,7 @@ In this Project, the dataset that I have collected on movies and credits from Ka
     ✔Helps the item provider to deliver their items to the right user
 ##
 ### 📍 Conclussion:
-
+In this paper we have introduced MovieREC, a recommender system for movie recommendation. It allows a user to select his choices from a given set of attributes and then recommend him a movie list based on the cumulative weight of different attributes and using K-means algorithm.
 
 ##
 #### 📍 Link of Project: https://www.youtube.com/watch?v=qQFj9O5dVSs
