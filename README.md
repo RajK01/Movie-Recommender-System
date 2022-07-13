@@ -2,7 +2,9 @@
 ### 📍 Description:
 In this Project, the dataset that I have collected on movies and credits from Kaggle website. The entire code has been done on Jupiter notebook. The main aim of this project is to obtain the similar movie of the movie which I want.  And the code is run on VS Code. I used API key of my own id to print Image or posters of movies as well. And the frontend is developed using the Streamlit library.
 Recommendation systems have become an important part of everyones lives. With the enormous number of movies releasing worldwide every year, people often miss out on some amazing work of arts due to the lack of correct suggestion. Putting machine learning based Recommendation systems into work is thus very important to get the right recommendations.
-
+##
+### 📍 Logic:
+![screenshot](https://miro.medium.com/max/1902/1*dsuGJVJSqhhhNySFnt7EVw.png)
 
 ##
 ### 📍 Aims and Objectives:
